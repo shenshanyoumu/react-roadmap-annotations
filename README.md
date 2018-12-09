@@ -45,7 +45,7 @@ function FancyUserBox(user) {
 
 ## 组合
 
-&nbsp;&nbsp;组合是一种软件设计方法，即通过将若干独立的抽象组合为完整的功能实体输出，从而完成更加复杂的任务
+&nbsp;&nbsp;组合是一种软件设计方法，即通过将若干独立的抽象组合为完整的功能实体输出，从而完成更加复杂的任务.
 
 ```js
 function FancyBox(children) {
